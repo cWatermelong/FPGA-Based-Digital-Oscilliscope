@@ -8,4 +8,6 @@ This project implements the basic functionallities of a Digital Oscilloscope on 
 **Dynamic Scaling**: 
 Horizontal (Time-base): Adjust the sampling rate or buffer read-offset to zoom in/out on the time axis. Vertical (Voltage): Digital gain and offset adjustments to fit the signal to the screen.
 
-**Freeze/Run Mode**: Trigger-style functionality to pause the waveform for detailed analysis.
+**Freeze/Run Mode**: Trigger-style functionality to pause the waveform for detailed analysis.  
+
+A video demo can be found [here](https://www.youtube.com/watch?v=ioccB-YO474&t=44s).
